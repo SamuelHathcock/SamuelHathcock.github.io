@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Beyond the Dialectic
-email: your-email@example.com
+email: samuelnhathcock@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   An idea sandbox
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  SamuelHathcock
 
 # Build settings
 theme: minima
